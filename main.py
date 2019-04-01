@@ -1,7 +1,3 @@
-'''
-How do I use the Binary Cross entropy Loss?
-
-'''
 
 import pandas as pd
 import keras
